@@ -7,3 +7,6 @@ to change the text after commit the name of the file will change to upload READM
 ## subheader
 
 I just deleted something in line 5 and add subheader and this line
+
+## learned feature branch using -b and checkout 
+install Oh My Zsh can help with autocomplete in feature name so on 
